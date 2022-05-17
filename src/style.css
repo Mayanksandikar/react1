@@ -1,0 +1,42 @@
+body{
+    background-color:rgb(85, 228, 233) ;
+    background: linear-gradient(pink,white,blue);
+    height: 100vh;
+}
+
+.styling{
+    text-align: center;
+}
+.styling button{
+    height: 50px;
+    width: 400px;
+    margin: 50px;
+    border: 2px solid black;
+    background-color: rgb(230, 120, 120);
+    border-radius: 20px;
+    font-weight: bolder;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+
+
+.component{
+    display: inline-block;
+    width: 600px;
+    height: 300px;
+    background-color: rgb(240, 236, 25);
+    border: 15px;
+    border: 3px solid black ;
+    border-radius: 40px;
+}
+.classbseed__based{
+    margin-left: 700px;
+    background-color: rgb(224, 105, 208);
+}
+.function__based{
+    display: inline-block;
+    position: absolute;
+    left: 10px;
+    top: 230px;
+}

@@ -1,0 +1,13 @@
+.app{
+    background: linear-gradient(pink,white,blue);
+
+}
+
+.Box{
+    height: 200px;
+    width: 600px;
+    color: red;
+    border: 10px solid red;
+    background-color: aqua;
+    border-radius: 47px;
+}
